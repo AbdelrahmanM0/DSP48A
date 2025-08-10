@@ -1,2 +1,4 @@
 # DSP48A
-Implementation of a DSP48A slice–based design in Verilog, demonstrating high-speed arithmetic operations on Xilinx FPGAs. The project includes Verilog source files, testbenches for functional verification using QuestaSim, and a PDF report detailing the design methodology, synthesis results, and FPGA implementation in Vivado.
+This project focuses on replicating the functionality of the DSP48A1 block using Verilog HDL, complemented by comprehensive simulation and functional verification in QuestaSim. After verification, the design was synthesized, implemented, and deployed on Xilinx hardware via Vivado, achieving timing closure and ensuring seamless hardware integration.
+
+The work highlights my proficiency in FPGA-based digital signal processing, demonstrating the complete lifecycle of a hardware design — from concept and architectural planning through simulation, verification, synthesis, and final deployment. Delivering a fully operational, high-performance DSP module reinforced my expertise in building efficient, real-time processing systems and showcased my ability to translate a complex specification into a reliable, deployable FPGA solution.
